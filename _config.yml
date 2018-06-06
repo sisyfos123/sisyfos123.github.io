@@ -1,2 +1,4 @@
 name: Oiva Konsultointi
 markdown: kramdown
+
+theme: jekyll-theme-cayman
